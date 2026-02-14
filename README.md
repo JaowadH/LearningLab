@@ -16,8 +16,8 @@ I am following the **"1 Hour of Code"** rule: regardless of how busy life gets, 
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaowadH&layout=compact&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaowadH&theme=dracula" alt="Daily Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaowadH&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JaowadH&theme=dracula&hide_border=true" alt="Daily Streak" />
 </p>
 
 ---
