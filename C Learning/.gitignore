@@ -1,0 +1,25 @@
+# --- C Build Artifacts ---
+# Object files (intermediate compilation steps)
+*.o
+*.obj
+
+# Default executable names
+a.out
+*.exe
+
+# Debug directories (if you make them later)
+Debug/
+Release/
+build/
+bin/
+
+# --- VS Code & Environment ---
+# VS Code settings (optional: keep if you want to save your run config, remove if you want a clean repo)
+.vscode/
+
+# Local history (some plugins create this)
+.history/
+
+# Mac/Linux system files (junk)
+.DS_Store
+Thumbs.db
