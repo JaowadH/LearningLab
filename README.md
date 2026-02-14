@@ -6,11 +6,10 @@ I am following the **"1 Hour of Code"** rule: regardless of how busy life gets, 
 
 ---
 
-### 📊 Live Progress
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/JaowadH/LearningLab/raw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/JaowadH/LearningLab/raw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/JaowadH/LearningLab/raw/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://github.com/JaowadH/LearningLab/raw/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 <br>
